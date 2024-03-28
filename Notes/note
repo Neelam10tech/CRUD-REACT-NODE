@@ -1,0 +1,14 @@
+for backend 
+npm init -y
+npm install mysql express
+npm i cors = backend not allow to run so backnd will solve error 
+
+FOR GIT
+1-git status
+2-git branch
+3-git fetch origin
+4-git pull origin "branch name "
+5-yran grunt
+
+for switch branch
+1-git checkout "branc name"
